@@ -427,7 +427,7 @@ Egal, ob es sich um Ihren Bitcoin-"Banker" oder um Sie selbst handelt, in der Re
 
   Der private Schlüssel ist sehr wichtig, da er den Besitz der Bitcoins repräsentiert und somit das Recht, sie zu verwenden oder zu senden. Der Inhaber des privaten Schlüssels ist der Eigentümer der Bitcoins.
 
-  Dieser Schlüssel muss geheim und gut aufbewahrt werden, da er Ihren Reichtum freischaltet!
+  Dieser Schlüssel muss geheim und gut aufbewahrt werden, da er Ihren Besitz freischaltet!
 
 - Öffentlicher Schlüssel & Adresse
   Der öffentliche Schlüssel wird mit dem privaten Schlüssel erstellt und ist daher mit diesem verbunden. Der öffentliche Schlüssel wird verwendet, um Bitcoin-Adressen zu generieren und Geld zu empfangen. Das Teilen des öffentlichen Schlüssels birgt Risiken für die Privatsphäre, aber nicht für die Sicherheit.
@@ -444,17 +444,17 @@ Obwohl Ihre Schlüssel in Ihrer Brieftasche gespeichert sind, sind die Bitcoins 
 
 ![image](assets/de/chapter5/1.webp)
 
-Glücklicherweise kann dieser private Schlüssel seit 2017 in einer einfachen Liste von 12 oder 24 Wörtern codiert werden, die als mnemonischer Satz bezeichnet wird. Dieser Satz ist eine Sicherungskopie Ihrer Bitcoin-Brieftasche und ermöglicht es Ihnen, Ihre Brieftasche mit jeder Bitcoin-Brieftaschen-Software/-App wiederherzustellen. Jede Person, die Zugriff auf diese Wortliste hat, hat Zugriff auf Ihre Bitcoins.
+Glücklicherweise kann dieser private Schlüssel seit 2017 in einer einfachen Liste von 12 oder 24 Wörtern codiert werden, die als mnemonischer Satz bezeichnet wird. Dieser Satz ist eine Sicherungskopie Ihrer Bitcoin-Brieftasche und ermöglicht es Ihnen, Ihre Brieftasche mit jeder Bitcoin-Wallet-Software/-App wiederherzustellen. Jede Person, die Zugriff auf diese Wortliste hat, hat Zugriff auf Ihre Bitcoins.
 
 ### Was ist mit Hackern?
 
-Man könnte sich die Frage stellen: Was ist, wenn jemand zufällig unsere Liste mit 12 oder 24 Wörtern errät? Die kurze Antwort ist, dass es aufgrund der für die Brieftasche verwendeten Kryptographie äußerst unwahrscheinlich ist. Um es in Perspektive zu setzen, das zufällige Auffinden des Zugriffs auf Ihre Brieftasche entspricht dem Auffinden der "richtigen" Zahl zwischen 1 und $2^256$, was praktisch dem Auffinden des "richtigen" Atoms im Universum entspricht. Wenn Sie jedoch mit dieser Standard-Sicherheit nicht zufrieden sind, können Sie Ihre Bitcoin-Brieftasche immer durch Hinzufügen einer Passphrase stärken.
+Man könnte sich die Frage stellen: Was ist, wenn jemand zufällig unsere Liste mit 12 oder 24 Wörtern errät? Die kurze Antwort ist, dass es aufgrund der für die Brieftasche verwendeten Kryptographie äußerst unwahrscheinlich ist. Um es in Perspektive zu setzen, das zufällige Auffinden des Zugriffs auf Ihre Wallet entspricht dem Auffinden der "richtigen" Zahl zwischen 1 und $2^256$, was praktisch dem Auffinden des "richtigen" Atoms im Universum entspricht. Wenn Sie jedoch mit dieser Standard-Sicherheit nicht zufrieden sind, können Sie Ihre Bitcoin-Brieftasche immer durch Hinzufügen einer Passphrase stärken.
 
 ![image](assets/de/chapter5/5.webp)
 
-Die Wahrscheinlichkeit eines Hacks Ihrer Bitcoin-Brieftasche ist daher astronomisch gering, wenn Sie bewährte Sicherheitspraktiken befolgen. Diese Praktiken werden im nächsten Abschnitt ausführlich erläutert.
+Die Wahrscheinlichkeit eines Hacks Ihrer Bitcoin-Wallet ist daher astronomisch gering, wenn Sie bewährte Sicherheitspraktiken befolgen. Diese Praktiken werden im nächsten Abschnitt ausführlich erläutert.
 
-Wählen Sie eine Brieftasche, die Ihren Bedürfnissen und Ihrer Verwendung entspricht. Detaillierte Anleitungen zur Verwendung und Sicherung verschiedener Brieftaschen finden Sie im Abschnitt [Tutorial PlanB](https://planb.network/tutorials/wallet).
+Wählen Sie eine Wallet, die Ihren Bedürfnissen und Ihrer Verwendung entspricht. Detaillierte Anleitungen zur Verwendung und Sicherung verschiedener Brieftaschen finden Sie im Abschnitt [Tutorial PlanB](https://planb.network/tutorials/wallet).
 
 ## Sicherheit und Bitcoin-Brieftaschen
 
@@ -566,13 +566,13 @@ In der gleichen Logik sollten Sie es vermeiden, Ihr Sicherheitssystem bei Bitcoi
 
 ### Zusammenfassung über die Sicherheit von Bitcoin-Wallets
 
-Bitcoin-Wallets sind Softwareprogramme, mit denen man Nitcoins speichern und umtauschen kann. Es gibt verschiedene Arten von Wallets: Wallets auf Handys oder PCs, die praktisch für kleine Beträge und/oder regelmäßige Ausgaben sind; physische Wallets, die eher für die mittel- bis langfristige Aufbewahrung von Bitcoin geeignet sind; Multisig-Wallets, die komplexer zu verwalten sind und mehrere Unterschriften benötigen, um Transaktionen zu tätigen.
+Bitcoin-Wallets sind Softwareprogramme, mit denen man seine Bitcoins speichern und umtauschen kann. Es gibt verschiedene Arten von Wallets: Wallets auf Handys oder PCs, die praktisch für kleine Beträge und/oder regelmäßige Ausgaben sind; physische Wallets, die eher für die mittel- bis langfristige Aufbewahrung von Bitcoin geeignet sind; Multisig-Wallets, die komplexer zu verwalten sind und mehrere Unterschriften benötigen, um Transaktionen zu tätigen.
 
 Bei der Erstellung einer Brieftasche müssen Sie zuerst eine Sicherungskopie Ihres privaten Schlüssels erstellen. Diese Sicherungskopie besteht aus einer Liste von 12 oder 24 Wörtern oder 12 Wörtern, die Sie auf ein Blatt Papier oder eine Metallplatte schreiben können. Diese mnemonische Phrase ermöglicht es Ihnen, Ihre Brieftasche in jeder Bitcoin-Brieftaschenanwendung wiederherzustellen. Jede Person, die Zugriff auf diese Liste hat, hat auch Zugriff auf Ihre Bitcoins. In Bitcoin geht finanzielle Souveränität Hand in Hand mit individueller Verantwortung, daher ist es entscheidend, den Zugriff auf Ihre Brieftaschen und Sicherungskopien zu sichern. Dazu ist es wichtig, bestimmte Regeln zu befolgen:
 
 - Erstellen Sie einen Vererbungsplan: um sicherzustellen, dass Ihre Angehörigen im Falle eines Problems auf das Geld zugreifen können.
 - Vermeiden Sie Börsenplattformen: Vermeiden Sie es, Ihre Bitcoins auf Börsenplattformen zu lassen, da sie anfällig für Hackerangriffe sein können.
-- Passen Sie Ihr Sicherheitsniveau an: Nehmen Sie sich Zeit, um Ihre Bedürfnisse und Verwendungen zu erläutern. Dies wird Ihnen bei der Auswahl zwischen den verschiedenen Bitcoin-Brieftaschen helfen.
+- Passen Sie Ihr Sicherheitsniveau an: Nehmen Sie sich Zeit, um Ihre Bedürfnisse und Verwendungen zu erläutern. Dies wird Ihnen bei der Auswahl zwischen den verschiedenen Bitcoin-Wallets helfen.
 
 Jetzt, da wir die Grundlagen von Bitcoin-Brieftaschen und bewährte Sicherheitspraktiken kennen, werden wir im nächsten Kapitel die technische Funktionsweise von Bitcoin behandeln. Auch hier wird das Verständnis der Grundlagen des Bitcoin-Protokolls Ihnen helfen, seine Funktionsweise besser zu verstehen und es besser nutzen zu können.
 
