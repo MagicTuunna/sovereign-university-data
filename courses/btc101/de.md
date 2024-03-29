@@ -25,7 +25,7 @@ Du benötigst keine spezifischen Vorkenntnisse, um loszulegen. Der Kurs ist für
 
 ### Willkommen in einem neuen monetären und technologischen Paradigma.
 
-Bitcoin ist eine bedeutende Innovation, die über eine einfache "Internetwährung" hinausgeht. Es ist eine technologische und monetäre Revolution, die unsere Beziehung zu Geld und Gesellschaft in Frage stellen kann. Bitcoin ist eine sogenannte **neutrale** und **dezentrale** Währung, was bedeutet, dass sie nicht von einer Entität oder Institution kontrolliert wird. Um Bitcoin wirklich zu verstehen, ist es wichtig zu verstehen, dass Bitcoin (auch BTC genannt) sowohl ein informatisches Protokoll (Bitcoin) als auch eine Währungseinheit (Bitcoin) ist.
+Bitcoin ist eine bedeutende Innovation, die über eine einfache "Internetwährung" hinausgeht. Es ist eine technologische und monetäre Revolution, die unsere Beziehung zu Geld und Gesellschaft in Frage stellen kann. Bitcoin ist eine sogenannte **neutrale** und **dezentrale** Währung, was bedeutet, dass sie nicht von einer Entität oder Institution kontrolliert wird. Um Bitcoin wirklich zu verstehen, ist es wichtig zu verstehen, dass Bitcoin (auch BTC genannt) sowohl ein informatisches Protokoll als auch eine Währungseinheit ist.
 
 Das Protokoll verwendet zugrunde liegende Technologien wie Kryptographie, Netzwerkkommunikation und die berühmte "Blockchain", während die Bitcoin-Währung die Währung ist, die für das reibungslose Funktionieren dieses Protokolls erforderlich ist. Im Alltag verwenden Salvadorianer und Bitcoin-Nutzer auf der ganzen Welt Bitcoin als Währung, um Waren und Dienstleistungen zu kaufen und zu verkaufen. Diese Währung basiert auf dem Bitcoin-Protokoll.
 
