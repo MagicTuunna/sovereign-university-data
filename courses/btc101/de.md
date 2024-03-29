@@ -195,9 +195,10 @@ Eine fiduziäre Währung ist eine Form von Geld, die von einer Institution wie e
 
 ### Währungsabwertung: Eine Strategie so alt wie das Römische Reich
 
-Seit der Antike diente Gold als Währungsreferenz. Aufgrund seiner Starrheit haben jedoch die Herrscher - sei es das Römische Kaiserreich oder moderne Regierungen - oft alternative, oft fiduziäre Währungen eingeführt.
+Seit der Antike diente Gold als Währungsreferenz. Aufgrund seiner Starrheit haben jedoch die Herrscher - sei es das Römische Kaiserreich oder moderne Regierungen - oft fiduziäre Währungen eingeführt.
 
-Der Mechanismus ist einfach und basiert auf Praktiken, die seit den Anfängen der Zivilisation existieren. Die Herrscher, die bestrebt sind, die Kontrolle über Reichtümer auszuüben, beginnen damit, das Gold zu zentralisieren, oft durch Ausnutzung ihrer Macht und durch Versprechen von Schutz und Sicherheit. Mit diesem kostbaren Vorrat in ihren Händen führen sie eine neue Währung ein, die im Wert dem Gold entspricht, aber mit ihrem Abbild geprägt ist. Diese Währung beginnt dann im Umlauf zu sein, und das Volk gewöhnt sich schnell an ihre Bequemlichkeit.
+Der Mechanismus ist einfach und basiert auf Praktiken, die seit den Anfängen der Zivilisation existieren. Die Herrscher, die bestrebt sind, die Kontrolle über Reichtümer auszuüben, beginnen damit, das Gold zu zentralisieren.
+Oft geschieht dass durch die Ausnutzung ihrer Macht und durch Versprechen von Schutz und Sicherheit. Mit diesem kostbaren Vorrat in ihren Händen führen sie eine neue Währung ein, die den Wert von Gold spiegelt, jedoch mit ihrem Abbild geprägt ist. Diese Währung beginnt dann im Umlauf zu sein, und das Volk gewöhnt sich schnell an ihre Bequemlichkeit.
 
 Nach und nach werten diese Herrscher die neue Währung heimlich ab, indem sie ihren Wert im Vergleich zum ursprünglichen Gold jedes Jahr um einige Prozentpunkte reduzieren. Diese stille Abwertung wird oft als im Interesse des Volkes gerechtfertigt. So sehen diejenigen, die in dieser fiduziären Währung sparen, den Wert ihrer Ersparnisse schwinden, während der Staat seine Projekte durch Inflation finanziert. Darüber hinaus erleichtert diese Abwertung die Rückzahlung von Schulden.
 
@@ -215,7 +216,7 @@ Heute sind wir Zeugen einer historischen Wende. Der Dollar, der lange Zeit domin
 
 ### Ist Bitcoin eine Lösung?
 
-In diesem Kontext gewinnt die Bitcoin-Revolution an Bedeutung. Diese Währung, die **kein Vertrauen in Dritte** erfordert, zielt darauf ab, den Staat von der Währung zu trennen.
+In diesem Kontext gewinnt die Bitcoin-Revolution an Bedeutung. Diese Währung, die **kein Vertrauen in Dritte** erfordert, zielt darauf ab, Staat und Geld zu trennen.
 
 Die Geldschöpfung führt zu Inflation und verarmt die Bevölkerung allmählich. Auf der anderen Seite haben sich Finanzinstitute und wohlhabende Einzelpersonen durch diese Praxis bereichert und eine Kluft der Ungleichheit geschaffen, die den Autoritarismus begünstigt. Das aktuelle Finanzsystem ist reguliert und eingeschränkt, um einen Zusammenbruch zu verhindern, und jede Störung könnte eine große Wirtschaftskrise auslösen. Da politische Akteure von diesem System profitieren, haben sie keinen Anreiz für einen radikalen Wandel und lassen das System seinen Lauf nehmen, bis es möglicherweise zusammenbricht.
 
@@ -231,7 +232,7 @@ Gleichzeitig scheint die Einführung von digitalen Zentralbankwährungen, oder C
 
 ## Die Hyperinflationen
 
-Die Hyperinflation ist ein monetäres Phänomen, das für Fiatwährungen typisch ist. Sie zeichnet sich durch einen vollständigen Vertrauensverlust in eine Währung und eine drastische Inflation durch die Geldschöpfung der Behörden aus. Als Ergebnis können die von Einzelpersonen angesammelten Ersparnisse in relativ kurzer Zeit verschwinden, was das Land an den Rand des wirtschaftlichen, sozialen und politischen Abgrunds treibt.
+Die Hyperinflation ist ein monetäres Phänomen, das für Fiatwährungen typisch ist. Sie zeichnet sich durch einen vollständigen Vertrauensverlust in eine Währung und durch eine drastische entwertung durch die Geldschöpfung der Behörden aus. Als Ergebnis können die von Einzelpersonen angesammelten Ersparnisse in relativ kurzer Zeit verschwinden, was das Land an den Rand des wirtschaftlichen, sozialen und politischen Abgrunds treibt.
 
 ### Die Inflation, aber außer Kontrolle!
 
@@ -267,7 +268,8 @@ Phase 3 - Der Teufelskreis des Gelddrucks
 
 Phase 4 - Eine neue Währung entsteht
 
-- Eine neue Währung wird eingeführt, um die alte zu ersetzen. Ein bemerkenswertes Beispiel für Hyperinflation ist Deutschland in den Jahren 1920-1924. Um die Wirtschaft anzukurbeln, wurde eine neue Währung geschaffen, die durch deutsche, französische und englische Schulden besichert und durch deutsches Land garantiert war.
+- Eine neue Währung wird eingeführt, um die alte zu ersetzen. Ein bemerkenswertes Beispiel für Hyperinflation ist Deutschland in den Jahren 1920-1924. Um die Wirtschaft anzukurbeln, wurde eine neue Währung geschaffen, die durch durch Schulden, die Deutschland bei anderen Ländern wie Frankreich und England hatte, sowie durch Garantien auf deutsches Land gestützt.
+
 
 Die Bewältigung einer Hyperinflationskrise erfordert oft radikale Veränderungen wie Revolutionen, Regierungswechsel, Wechsel der Zentralbanker und vieles mehr. Vertrauensverlust, Währungszusammenbruch und Wiederaufbau sind entscheidende Phasen, um eine neue Wirtschaft auf der Grundlage einer Vertrauenswährung anzukurbeln.
 
@@ -303,7 +305,7 @@ Die Bewältigung einer Hyperinflationskrise erfordert oft radikale Veränderunge
 
 ![image](assets/de/chapter3/7.webp)
 
-Zusammenfassend führt Hyperinflation dazu, dass der Wert der Währung schnell abnimmt, was zu einer Erosion der Ersparnisse und einem Vertrauensverlust in das Währungssystem führt. Wie Voltaire einst vorschlug, wird eine Fiatwährung immer ihren inneren Wert verlieren und gegen Null konvergieren.
+Zusammenfassend führt Hyperinflation dazu, dass der Wert der Währung schnell abnimmt, was zu einer Erosion der Ersparnisse und einem Vertrauensverlust in das Währungssystem führt. Wie Voltaire einst sagte, wird eine Fiatwährung immer ihren inneren Wert verlieren und gegen Null konvergieren.
 Eine Währung, die auf einem Vertrauensdritten wie einer Finanzinstitution beruht, erweist sich in der Praxis und langfristig als fehlerhafte Währung, da sie nicht in der Lage ist, die Kaufkraft zu garantieren oder Ersparnisse zu schützen.
 
 ## 21 Millionen Bitcoins
@@ -384,13 +386,13 @@ Tatsächlich kann jeder die Menge der im Umlauf befindlichen Bitcoins überprüf
 }
 ```
 
-Bitcoin garantiert durch seine Konzeption eine gesunde Geldverwaltung, indem es seine Schöpfung begrenzt und das Vermögen der Benutzer schützt, was es von anderen Währungen unterscheidet. Im Einklang mit den Prinzipien der österreichischen Wirtschaft (Details in ECON201) schützen seine kontrollierte Menge und seine vorhersehbare Verteilung es vor den Inflationsrisiken traditioneller Währungen.
+Bitcoin garantiert durch seine Konzeption eine gesunde Geldverwaltung, indem es seine Schöpfung begrenzt und das Vermögen der Benutzer schützt, was es von anderen Währungen unterscheidet. Im Einklang mit den Prinzipien der österreichischen Wirtschaftslehre (Details in ECON201) schützen seine kontrollierte Menge und seine vorhersehbare Verteilung es vor den Inflationsrisiken traditioneller Währungen.
 
 Insgesamt bietet Bitcoin durch seine dezentrale Natur, seine programmierte Knappheit und seine Transparenz eine einzigartige Alternative zu traditionellen Währungssystemen. Es zeigt, wie Technologie genutzt werden kann, um eine Währung zu schaffen, die nicht nur nützlich und überprüfbar ist, sondern auch den Wert des Benutzervermögens durch eine strenge Angebotsgrenze bewahrt.
 
 ### Fazit des Abschnitts 1!
 
-Die Währung ist ein soziales Werkzeug, das sich den Bedürfnissen und der Technologie anpassen muss. Im Laufe der Zeit wurde Gold als Wertspeicher verwendet, da es selten war und nicht abgewertet werden konnte. Später wurde Gold jedoch durch Schulden und Fiat-Währung ersetzt, die leicht zu transportieren, aber auch manipulierbar ist.
+Die Währung ist ein soziales Werkzeug, das sich den Bedürfnissen und der Technologie anpassen muss. Im Laufe der Zeit wurde Gold als Wertspeicher verwendet, da es selten war und nicht abgewertet werden konnte. Später wurde Gold jedoch durch Schulden und Fiat-Währung ersetzt, die leicht zu transportieren, aber auch manipulierbar sind.
 
 Bitcoin ist eine realistische alternative Währung, da sie selten ist und auf 21 Millionen Bitcoins begrenzt ist, die nicht geändert werden können. Die Geldschöpfung wird durch die Anpassung der Schwierigkeit alle 2 Wochen und durch das Halbieren sichergestellt, was einen mathematisch überprüfbaren Beweis für ihre Seltenheit garantiert. Im Gegensatz zu Euro oder Dollar, deren Umlaufmenge nicht überprüfbar ist und sich häufig aufgrund von Entscheidungen von Finanzinstitutionen ändert, ist Bitcoin eine kryptographische Währung mit einer neutralen und festen Geldpolitik. Es ist daher eine ausgezeichnete weltweite Wertspeicherung, da es nicht durch Geldschöpfung abgewertet werden kann.
 
@@ -408,9 +410,9 @@ In diesem Abschnitt 2 werden wir die Speicherung und Sicherheit von Bitcoins in 
 
 In dieser Branche verwenden wir Wallets, um mit dem Bitcoin-Netzwerk zu interagieren, das drei Funktionen hat:
 
-- Empfangen von Bitcoins ermöglichen
-- Senden von Bitcoins ermöglichen
-- Schutz vor Hacking- und Diebstahlversuchen bieten
+- Empfangen von Bitcoins 
+- Senden von Bitcoins 
+- Schutz vor Hacking- und Diebstahlversuchen 
 
 Ein Wallet kann eine Software auf Ihrem Computer, eine App auf Ihrem Smartphone, ein physisches Gerät wie ein USB-Stick oder sogar ein Stück Papier sein. Diese verschiedenen Arten von Bitcoin-Wallets erfüllen jeweils unterschiedliche Anwendungsfälle. Einige dienen für große Beträge mit Schwerpunkt auf Sicherheit, andere auf Privatsphäre oder auf die tägliche Zahlung kleiner Beträge.
 
@@ -418,9 +420,9 @@ Ein Wallet kann eine Software auf Ihrem Computer, eine App auf Ihrem Smartphone,
 
 ![image](assets/de/chapter5/3.webp)
 
-### Wie funktioniert eine Bitcoin-Brieftasche?
+### Wie funktioniert eine Bitcoin-Wallet?
 
-Egal, ob es sich um Ihren Bitcoin-"Banker" oder um Sie selbst handelt, in der Regel funktionieren die meisten Bitcoin-Brieftaschen mit ähnlicher Technologie, nämlich asymmetrischer Kryptographie und einem Schlüsselpaar-System: ein privater Schlüssel zum Empfangen und ein öffentlicher Schlüssel zum Ausgeben.
+Egal, ob es sich um Ihren Bitcoin-"Banker" oder um Sie selbst handelt, in der Regel funktionieren die meisten Bitcoin-Wallets mit ähnlicher Technologie, nämlich asymmetrischer Kryptographie und einem Schlüsselpaar-System: ein öffentlicher Schlüssel zum Empfangen und ein privater Schlüssel zum Ausgeben.
 
 - Privater Schlüssel
   Bei der Initialisierung einer Brieftasche wird ein geheimer Wiederherstellungssatz (privater Schlüssel) generiert und Ihnen in Form von 24 Wörtern gegeben.
