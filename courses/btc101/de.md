@@ -86,7 +86,7 @@ Bevor der Begriff "Bitcoin" mit digitaler Währung und finanzieller Transformati
 
 ![image](assets/de/chapter0/0.webp)
 
-Im Herzen der technologischen Entwicklung der 1980er und 1990er Jahre begann eine Gruppe von Menschen, sich intensiv mit der Rolle von Privatsphäre und Freiheit im digitalen Zeitalter auseinanderzusetzen. Diese Personen, die später als "Cypherpunks" bekannt wurden, glaubten fest daran, dass Kryptographie als Werkzeug dienen könnte, um individuelle Rechte vor staatlicher Einmischung und großen Unternehmen zu schützen.
+Im Herzen der technologischen Entwicklung der 1980er und 1990er Jahre begann eine Gruppe von Menschen, sich intensiv mit der Rolle von Privatsphäre und Freiheit im digitalen Zeitalter auseinanderzusetzen. Diese Personen, die später als "Cypherpunks" bekannt wurden, glaubten fest daran, dass Kryptographie als Werkzeug dienen könnte, um individuelle Rechte vor staatlicher Einmischung und großen Unternehmen im digitalen Raum zu schützen.
 Bedeutende Persönlichkeiten wie Julian Assange, Wei Dai, Tim May und David Chaum trugen dazu bei, die Philosophie und Vision der Cypherpunks zu definieren. Diese Denker teilten ihre Ideen in einer einflussreichen Mailingliste, in der Teilnehmer aus der ganzen Welt darüber debattierten, wie Technologie am besten genutzt werden kann, um größere individuelle Freiheit zu gewährleisten.
 
 ### Die Drei Grundlegenden Texte der Cypherpunks
@@ -112,7 +112,7 @@ Ein weiterer wichtiger Vorläufer ist "b-money" von Wei Dai. Obwohl es nie umges
 
 ![image](assets/de/chapter0/1.webp)
 
-In dieser fruchtbaren Umgebung veröffentlichte der mysteriöse Satoshi Nakamoto im Jahr 2008 das Bitcoin-Whitepaper. Er kombinierte mehrere Ideen aus der Cypherpunk-Bewegung, wie Proof-of-Work und kryptographische Zeitstempel, um eine dezentralisierte und zensurresistente digitale Währung zu schaffen.
+In dieser fruchtbaren Umgebung veröffentlichte das mysteriöse Pseudonym, Satoshi Nakamoto im Jahr 2008 das Bitcoin-Whitepaper. Er kombinierte mehrere Ideen aus der Cypherpunk-Bewegung, wie Proof-of-Work und kryptographische Zeitstempel, um eine dezentralisierte und zensurresistente digitale Währung zu schaffen.
 
 Bitcoin war mehr als nur eine digitale Währung; es verkörperte eine Verwirklichung der Cypherpunk-Ideale. Über seine Technologie hinaus symbolisierte es eine Revolution gegen traditionelle Finanzsysteme und bot eine Alternative, die auf Transparenz, Dezentralisierung und individueller Souveränität basierte.
 
@@ -128,13 +128,13 @@ Bitcoin ist also ein Protokoll, das sich über lange Zeiträume erstreckt und un
 
 ## Die Währung im Laufe der Geschichte
 
-Die Entwicklung der Währung ist ein faszinierender Aspekt der menschlichen Geschichte und spiegelt den Einfallsreichtum von Zivilisationen im Laufe der Zeit wider, um sich an sich ständig ändernde wirtschaftliche Bedürfnisse anzupassen.
+Die Entwicklung der Währung ist ein faszinierender Aspekt der menschlichen Geschichte und spiegelt den Einfallsreichtum von Zivilisationen im Laufe der Zeit wider, um sich ständig ändernden wirtschaftlichen Bedürfnissen anzupassen.
 
 ![image](assets/de/chapter1/2.webp)
 
 ### Von Muscheln bis zum Bankkonto
 
-Ursprünglich war Geld greifbar und oft mit wesentlichen Gütern wie Getreide, Vieh und anderen Waren verbunden. Diese Waren hatten jedoch erhebliche Nachteile wie Verderblichkeit, was ihre Verwendung als langfristige Sparmittel erschwerte. Zum Beispiel konnte eine schlechte Ernte oder eine Krankheit den Reichtum eines Individuums von einem Tag auf den anderen vernichten.
+Ursprünglich war Geld greifbar und oft mit wesentlichen Gütern wie Getreide, Vieh und anderen Waren verbunden. Diese Waren hatten jedoch erhebliche Nachteile wie Verderblichkeit und Vergänglichkeit, was ihre Verwendung als langfristige Sparmittel erschwerte. Zum Beispiel konnte eine schlechte Ernte oder eine Krankheit den Reichtum eines Individuums von einem Tag auf den anderen vernichten.
 Während Zivilisationen fortschritten und der Handel sich auf neue Regionen ausdehnte, entstand ein Bedarf an einem universellen Tauschmittel. Objekte wie Muscheln und Edelsteine wurden ausprobiert, waren aber nicht perfekt. Gold wurde schließlich aufgrund seiner Seltenheit, Haltbarkeit und Teilbarkeit zum Standard. Es war und ist bis heute ein Symbol für Reichtum und Macht.
 
 ![image](assets/de/chapter1/1.webp)
@@ -143,7 +143,7 @@ Während Zivilisationen fortschritten und der Handel sich auf neue Regionen ausd
 
 Geld ist ein sehr ausgefeiltes Kommunikationsmittel:
 
-- Es ermöglicht die Kommunikation zwischen Gegenwart und Zukunft. Wir verwandeln unsere Zeit und Energie in ein Vermögen, das in der Zukunft ohne das Risiko einer Abwertung wiederverwendet werden kann.
+- Es ermöglicht die Kommunikation zwischen Gegenwart und Zukunft. Wir verwandeln unsere Zeit und Energie in einen Speicher, welcher in der Zukunft Zeit und Energie zurückkaufen kann.
 
 - Es ermöglicht die Kommunikation in einer universellen gemeinsamen Sprache. Ohne sich zu kennen, ohne die gleiche Sprache zu sprechen, können zwei Fremde Waren austauschen, handeln und sich auf den Wert von Dingen einigen.
 
