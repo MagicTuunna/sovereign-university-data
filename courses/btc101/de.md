@@ -188,8 +188,8 @@ Bitcoin hingegen bietet neue Möglichkeiten. Aufgrund seiner Eigenschaften, wie 
 
 ### Fiduziarisch = Vertrauen
 
-Heutzutage gelten große Währungen wie der Euro und der Dollar als fiduziarisch. Das bedeutet, dass sie keinen inneren Wert haben. Ihr Wert beruht ausschließlich auf dem Vertrauen und dem Glauben, den wir den sie regulierenden Institutionen entgegenbringen.
-Eine fiduziäre Währung ist eine Form von Geld, die von einer Institution wie einem Nationalstaat wie China mit dem Yen oder einer politisch-wirtschaftlichen Union wie der Europäischen Union mit dem Euro als Währung erklärt wird. Die Institution, die für die Ausgabe einer fiduziären Währung verantwortlich ist, ist eine Zentralbank (zum Beispiel die Volksbank von China, die Federal Reserve der Vereinigten Staaten oder die Zentralbank der Republik Guinea). Diese Institutionen sind dafür verantwortlich, die Geldpolitik zu bestimmen und somit zu entscheiden, wie viel Geld in Umlauf gebracht oder gedruckt werden soll.
+Heutzutage gelten große Währungen wie der Euro und der Dollar als fiduziarisch. Das bedeutet, dass sie keinen inneren Wert haben. Ihr Wert beruht ausschließlich auf dem Vertrauen und dem Glauben entgegen der Institution, welche die Währung ausstellt.
+Eine fiduziäre Währung ist eine Form von Geld, die von einer Institution wie einem Nationalstaat wie Japan mit dem Yen oder einer politisch-wirtschaftlichen Union wie der Europäischen Union mit dem Euro als Währung erklärt wird. Die Institution, die für die Ausgabe einer fiduziären Währung verantwortlich ist, ist eine Zentralbank (zum Beispiel die Volksbank von China, die Federal Reserve der Vereinigten Staaten oder die Zentralbank der Republik Guinea). Diese Institutionen sind dafür verantwortlich, die Geldpolitik zu bestimmen und somit zu entscheiden, wie viel Geld in Umlauf gebracht oder gedruckt werden soll.
 
 ![image](assets/de/chapter2/1.webp)
 
