@@ -31,11 +31,11 @@ Das Protokoll verwendet zugrunde liegende Technologien wie Kryptographie, Netzwe
 
 ### Ein umfassendes, aber zugängliches Curriculum
 
-In diesem Kurs werden wir die monetären Aspekte von Bitcoin diskutieren, einschließlich des Kaufs und Verkaufs von Bitcoins, der sicheren Aufbewahrung in digitalen Wallets und der Verwendung für Transaktionen. Wir werden auch die Rolle der Miner untersuchen, die für die Erzeugung neuer Bitcoins und die Sicherung des Bitcoin-Netzwerks unerlässlich sind. Darüber hinaus werden wir uns mit der Zukunft von Bitcoin befassen und wie die Lightning Network-Technologie Bitcoin-Transaktionen verbessern kann.
+In diesem Kurs werden wir die monetären Aspekte von Bitcoin diskutieren, einschließlich des Kaufs und Verkaufs von Bitcoins, der sicheren Aufbewahrung in Eigenverwahrung (digitale Wallets) und der Verwendung für Transaktionen. Wir werden auch die Rolle der Miner untersuchen, die für die Erzeugung neuer Bitcoins und die Sicherung des Bitcoin-Netzwerks unerlässlich sind. Darüber hinaus werden wir uns mit der Zukunft von Bitcoin befassen und wie die Lightning Network-Technologie Bitcoin-Transaktionen verbessern kann.
 
 ![image](assets/de/chapter0/4.webp)
 
-Es ist wichtig zu verstehen, dass Bitcoin ein neues Geldsystem ist, das unsere Beziehung zum Geld revolutioniert. Das Erlernen der Nutzung von Bitcoin ist eine essentielle Fähigkeit für alle, die die Kontrolle über ihr eigenes Geld haben möchten.
+Es ist wichtig zu verstehen, dass Bitcoin ein neues Geldsystem ist, das unsere Beziehung zu Geld revolutioniert. Das Erlernen der Nutzung von Bitcoin ist eine essentielle Fähigkeit für alle, die Kontrolle über ihr eigenes Geld erlangen möchten.
 
 **Abschnitt 1 - Das Geld**
 
@@ -70,11 +70,11 @@ Es ist wichtig zu verstehen, dass Bitcoin ein neues Geldsystem ist, das unsere B
 - Kapitel 17 - Einführung in das Lightning Network
 - Kapitel 18 - Anwendungsfälle des Lightning Network
 
-Bevor wir die Definition und Funktionsweise des Geldes in einer Gesellschaft behandeln (Kapitel 1), beginnen wir mit der Entstehung von Bitcoin. Bitcoin ist eine relativ neue Technologie, die im Jahr 2009 gestartet wurde und einzigartig ist. Es ist also normal, dass man nicht alles sofort versteht. Tatsächlich muss man, wie beim Erlernen der Nutzung von Internet oder eines Autos, nicht alle technischen Details von Bitcoin kennen, um es zu nutzen (Geld empfangen, bezahlen, seine Gelder sichern).
+Bevor wir die Definition und Funktionsweise des Geldes in einer Gesellschaft behandeln (Kapitel 1), beginnen wir mit der Entstehung von Bitcoin. Bitcoin ist eine relativ neue Technologie, die im Jahr 2009 gestartet wurde und einzigartig ist. Es ist also normal, dass nicht alles sofort verstanden wird. Tatsächlich muss man, wie beim Erlernen der Nutzung von Internet oder eines Autos, nicht alle technischen Details von Bitcoin kennen, um es zu nutzen (Geld empfangen, bezahlen, seine Gelder sichern).
 
 ![image](assets/de/chapter0/3.webp)
 
-Es ist vor allem wichtig, diese neue Technologie im Allgemeinen zu verstehen. Wir hoffen, dass Ihnen diese Schulung gefällt und Ihnen die notwendigen Grundlagen vermittelt, um dieses neue globale Geldparadigma zu verstehen und vielleicht weiter voranzukommen.
+Es ist vor allem wichtig, diese neue Technologie im Allgemeinen zu verstehen. Wir hoffen, dass Ihnen diese Schulung gefällt und Ihnen die notwendigen Grundlagen vermittelt, um dieses neue globale Geldparadigma zu verstehen und informierte Entscheidungen treffen zu können.
 
 ## Die Vorgeschichte von Bitcoin
 
