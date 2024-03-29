@@ -1,6 +1,6 @@
 ---
 name: Der Bitcoin-Kurs
-goal: Bitcoin und seine grundlegenden Konzepte kennenlernen, einschließlich seines monetären Wertvorschlags, der Miner, Transaktionen und Wallets.
+goal: Bitcoin und seine grundlegenden Konzepte kennenlernen, einschließlich seines monetären Wertvorschlags, der Miner (Netzwerkteilnehmer), Transaktionen und Wallets.
 objectives:
   - Ein allgemeines Verständnis der Bitcoin-Technologie haben
   - Wissen, wie man Bitcoin kauft und sicher aufbewahrt
