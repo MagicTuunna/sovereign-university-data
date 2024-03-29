@@ -147,7 +147,7 @@ Geld ist ein sehr ausgefeiltes Kommunikationsmittel:
 
 - Es ermöglicht die Kommunikation in einer universellen gemeinsamen Sprache. Ohne sich zu kennen, ohne die gleiche Sprache zu sprechen, können zwei Fremde Waren austauschen, handeln und sich auf den Wert von Dingen einigen.
 
-Seine Funktion in unserer Welt ist schwer künstlich zu replizieren. Kein Mensch oder Menschengruppe kann Geld erschaffen, es ist ein natürlicher sozialer Phänomen, das aus dem Markt und einem freiwilligen Konsens entstehen muss. Preise sind Signale, Informationen, die der Gesellschaft helfen, zu entscheiden, wie Ressourcen verteilt werden.
+Seine Funktion in unserer Welt ist schwer künstlich zu replizieren. Kein Mensch oder Menschengruppe kann Geld erschaffen, es ist ein natürlicher sozialer Phänomen, das aus dem Markt und einem freiwilligen Konsens entstehen muss. Preise sind Signale und Informationen, die der Gesellschaft helfen, zu entscheiden, wie Ressourcen verteilt werden.
 
 Gold als Geld ist die Wahl von 4.000 Jahren monetärem Darwinismus, der auf drei Funktionen beruht:
 
@@ -168,7 +168,7 @@ Die Kriterien für eine effektive Währung sind vielfältig. Eine gute Währung 
 
 ![image](assets/de/chapter1/6.webp)
 
-- **Fungibel** sein, das heißt austauschbar ohne Wertverlust
+- **Gleichartig** sein, das heißt austauschbar ohne Wertverlust
 - **Teilbar** sein, um Transaktionen unterschiedlicher Volumina zu erleichtern
 - **Liquide** sein, das heißt leicht in Waren oder Dienstleistungen umwandelbar.
 
@@ -176,11 +176,11 @@ Um diesen Kriterien gerecht zu werden, entwickelt sich das Geld schrittweise wei
 
 - Rohstein -> Münze
 - Banknote -> Kreditkarte
-- Blockchain -> Lightning Network
+- Bitcoin Blockchain -> Lightning Network
 
 Heutzutage entwickeln sich Währungen weiter und passen ihre Formen an verschiedene Verwendungszwecke an. Zum Beispiel ist Gold zwar eine ausgezeichnete Wertaufbewahrung, aber nicht mehr für die heutige globalisierte Wirtschaft geeignet. Ebenso sind Fiat-Währungen wie der Dollar und der Euro aufgrund ihrer hauptsächlich digitalen Natur sehr liquide und leicht transportierbar, aber ihr Wert wird ständig durch die Geldinflation erodiert.
 
-Bitcoin hingegen bietet neue Möglichkeiten. Aufgrund seiner Eigenschaften, wie zum Beispiel seinem streng begrenzten Angebot, bietet es eine ausgezeichnete Wertaufbewahrung. Darüber hinaus ist es als neutrale Internetwährung ein gutes Tauschmittel, das keine Grenzen kennt. Dennoch wird es trotz einer [ständigen Akzeptanz](https://btcmap.org/map) heute noch wenig im Handel akzeptiert.
+Bitcoin hingegen bietet neue Möglichkeiten. Aufgrund seiner Eigenschaften, wie zum Beispiel seinem streng begrenzten Angebot, bietet es eine ausgezeichnete Wertaufbewahrung. Darüber hinaus ist es als neutrale Internetwährung ein gutes Tauschmittel, das keine Grenzen kennt. Dennoch wird es trotz einer [steigenden Akzeptanz](https://btcmap.org/map) heute noch wenig im Handel akzeptiert.
 
 ## Fiat-Währungen
 
