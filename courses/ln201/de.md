@@ -5,8 +5,8 @@ objectives:
   - Das Funktionieren der Netzwerkkanäle verstehen.
   - Mit den Begriffen HTLC, LNURL und UTXO vertraut werden.
   - Die Liquiditätsverwaltung und Gebühren des LNN assimilieren.
-  - Das Lightning Network als Netzwerk erkennen.
-  - Die theoretischen Anwendungen des Lightning Network verstehen.
+  - Das Lightning Network als Netzwerk zu erkennen.
+  - Die theoretischen Anwendungen des Lightning Network zu verstehen.
 ---
 
 # Eine Reise zur zweiten Schicht von Bitcoin
@@ -295,7 +295,7 @@ Beispiel für eine Gebühr :
 
 Also:
 
-- Gebühr 1: (von Alice a selbst bezahlt) 1 + (40.000\*0.000001)
+- Gebühr 1: (von Alice selbst bezahlt) 1 + (40.000\*0.000001)
 - Gebühr 2: 0 + 40.000 \* 0.0002 = 8 SAT
 - Kosten 3: 1 + 40 000\* 0.000001 = 0.4 SAT
 
@@ -303,7 +303,7 @@ Also:
 
 Versenden:
 
-1. Senden von 40 009.04 Alice -> Susie; Alice zahlt a ihre Gebühren selbst, daher zählt es nicht.
+1. Senden von 40 009.04 Alice -> Susie; Alice zahlt ihre Gebühren selbst, daher zählt es nicht.
 2. Susie tut Eden den Gefallen, 40 001.04 zu senden; sie nimmt die Provision von 8 SAT.
 3. Eden tut den Gefallen, 40.000 an Bob zu schicken; er nimmt seine 1.04 SAT Gebühr.
 
@@ -315,7 +315,7 @@ Im LN entscheidet der Knoten von Alice also vor dem Senden über die Route. Es g
 
 ![cover](assets/Chapitre7/9.webp)
 
-Für Susie oder Eden: Sie wissen nicht, wer der endgültige Empfänger ist oder wer sendet. Dies ist eine Zwiebel-Routing. Der Knoten muss also einen Plan des Netzwerks behalten, um seinen Weg zu finden, aber keiner der Vermittler hat Informationen.
+Für Susie oder Eden: Sie wissen nicht, wer der endgültige Empfänger ist oder wer sendet. Dies wird Onion-Routing (Zwiebel-Routing) genannt. Der Knoten muss also einen Plan des Netzwerks behalten, um seinen Weg zu finden, aber keiner der Vermittler hat Informationen.
 
 ## HTLC - Hashed Time Locked Contract
 
