@@ -618,7 +618,7 @@ Im Jahr 2010, als Bitcoin die Aufmerksamkeit der Medien auf sich zieht, beschlie
 
 > "Regierungen sind gut darin, die Köpfe von zentral kontrollierten Netzwerken wie Napster abzuschneiden, aber reine P2P-Netzwerke wie Gnutella und Tor scheinen sich behaupten zu können." - Satoshi Nakamoto
 
-Trotz der Abwesenheit von Satoshi entwickelt sich Bitcoin weiter. Alle 10 Minuten wird die Geschichte von Bitcoin geschrieben, und das Protokoll funktioniert weiterhin wie geplant. Unabhängig von Angst, Unsicherheit oder Zweifel (FOMO für Fear Of Missing Out oder FUD für Fear Uncertainty Doubt) geht Bitcoin weiter voran, mit einer Online-Verfügbarkeit von 99,988%.
+Trotz der Abwesenheit von Satoshi entwickelt sich Bitcoin weiter. Alle 10 Minuten wird die Geschichte von Bitcoin geschrieben, und das Protokoll funktioniert weiterhin wie geplant. Unabhängig von Angst, Unsicherheit oder Zweifel[(FOMO für Fear Of Missing Out oder FUD für Fear, Uncertainty, Doubt),(zu Deutsch: FUD: Angst, Unsicherheit und Zweifel, Fomo: Angst, etwas zu verpassen) geht Bitcoin weiter voran, mit einer Online-Verfügbarkeit von 99,988%.
 Der Bitcoin wird von jedem Individuum anders wahrgenommen. Für einige ist er eine pilzartige Entität wie das [Myzel](https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/), für andere ist er ein [Schwarzes Loch](https://dergigi.com/2019/05/01/bitcoins-gravity/i). Ob man den Bitcoin mag oder hasst, er existiert weiterhin mit seinem konstanten Rhythmus von 10 Minuten pro Block, wie der Herzschlag eines neuen Währungssystems.
 
 Um Ihr Wissen über die Schriften von Satoshi Nakamoto zu vertiefen, empfehle ich das [Buch von Phil Champagne](https://planb.network/resources/book) oder die ARTE-Dokumentation "Das Geheimnis Satoshi".
@@ -645,11 +645,11 @@ Dann initiiert Bob die Transaktion, indem er Alices Empfangsadresse verwendet. B
 
 > **Warum Gebühren zahlen?** Diese Gebühren sind notwendig, um einen freien Markt für die Einbeziehung von Transaktionen in Blöcke zu schaffen, da die Anzahl der Transaktionen in einem Block begrenzt ist. Ein Block hat eine Größe von 1 MB, was ein paar tausend Transaktionen pro Block entspricht. Die Gebühren einer Transaktion sind proportional zu ihrer Größe. Die Größe der Transaktion hängt wiederum von der Komplexität der Transaktion ab.
 
-> Um die Transaktion abzuschließen, muss Bob eine Signatur mit dem privaten Schlüssel der Adressen liefern, die er verwendet, um Alice zu bezahlen. Dadurch wird überprüft, dass er der Eigentümer der Bitcoins ist, die er übertragen möchte. Dieser Schritt erfolgt normalerweise automatisch in mobilen Geldbörsen oder es handelt sich um eine Bestätigung in Ihrer physischen Geldbörse: "Sind Sie sicher, dass Sie X an Y senden möchten? Ja oder Nein".
+> Um die Transaktion abzuschließen, muss Bob eine Signatur mit dem privaten Schlüssel der Adressen liefern, die er verwendet, um Alice zu bezahlen. Dadurch wird überprüft, dass er der Eigentümer der Bitcoins ist, die er übertragen möchte. Dieser Schritt erfolgt normalerweise automatisch in mobilen Wallets oder es handelt sich um eine Bestätigung in Ihrer physischen Wallet: "Sind Sie sicher, dass Sie X an Y senden möchten? Ja oder Nein".
 
 ### Schritt 2: Die Verbreitung der Transaktion über Knotenpunkte zu den Minern
 
-An diesem Punkt wurde die Transaktion erstellt und Bobs Geldbörse wird sie daher mit dem Bitcoin-Netzwerk teilen. Dazu wird seine Geldbörse mit einem Knotenpunkt im Bitcoin-Netzwerk kommunizieren, und dieser Knotenpunkt wird diese Informationen an andere Knotenpunkte weitergeben. Dieser Verbreitungsschritt ermöglicht es dem gesamten Netzwerk, diese neue Transaktion zu sehen und zu berücksichtigen.
+An diesem Punkt wurde die Transaktion erstellt und Bobs Wallet wird sie daher mit dem Bitcoin-Netzwerk teilen. Dazu wird seine Wallet mit einem Knotenpunkt im Bitcoin-Netzwerk kommunizieren, und dieser Knotenpunkt wird diese Informationen an andere Knotenpunkte weitergeben. Dieser Verbreitungsschritt ermöglicht es dem gesamten Netzwerk, diese neue Transaktion zu sehen und zu berücksichtigen.
 
 ![image](assets/de/chapter10/4.webp)
 
@@ -685,55 +685,56 @@ Letztendlich ist das Bitcoin-Transaktionssystem dezentralisiert und funktioniert
 
 Bob sendet seine Transaktion an das Bitcoin-Netzwerk, und wenn ein Miner einen gültigen Block veröffentlicht, der die Transaktion von Bob enthält, kann Alice anfangen, die Bitcoins als ihr Eigentum zu betrachten. Vertrauen ist in keiner Phase des Bitcoin-Eigentumsübertragungsprozesses erforderlich; nur die Regeln des Protokolls und wirtschaftliche Anreize machen es zu teuer, im Rahmen des Bitcoin-Protokolls bösartig zu handeln.
 
-Benutzer übertragen das Eigentum an ihrem Geld, indem sie Transaktionen digital mit ihren privaten Schlüsseln signieren. Miner haben nur wenig Macht, da Benutzer auch über die Bitcoin-Knoten eine erhebliche Kontrolle haben, die die Validierung neuer Blöcke und enthaltener Transaktionen übernehmen. Es ist dieses Netzwerk von Bitcoin-Knoten, das das Netzwerk wirklich dezentralisiert.
+Benutzer übertragen das Eigentum an ihrem Geld, indem sie Transaktionen digital mit ihren privaten Schlüsseln signieren. Miner haben nur wenig Macht, da Benutzer auch über die Bitcoin-Nodes eine erhebliche Kontrolle haben, die die Validierung neuer Blöcke und enthaltener Transaktionen übernehmen. Es ist dieses Netzwerk von Bitcoin-Nodes, das das Netzwerk wirklich dezentralisiert.
 
-Tatsächlich müssten alle Kopien der Blockchain aller Bitcoin-Knoten zerstört werden, damit das Bitcoin-Netzwerk vollständig zerstört wird - eine praktisch unmögliche Aufgabe aufgrund der geografischen Verteilung dieser Knoten und der Schwierigkeit, sie physisch zu erfassen.
+(Node = Knoten)
+Tatsächlich müssten alle Kopien der Blockchain aller Bitcoin-Nodes zerstört werden, damit das Bitcoin-Netzwerk vollständig zerstört wird - eine praktisch unmögliche Aufgabe aufgrund der geografischen Verteilung dieser Nodes und der Schwierigkeit, sie physisch zu erfassen.
 
-Lassen Sie uns nun genauer betrachten, wie ein Bitcoin-Knoten funktioniert.
+Lassen Sie uns nun genauer betrachten, wie ein Bitcoin-Node funktioniert.
 
-## Bitcoin-Knoten
+## Bitcoin-Node
 
-Knoten sind ein wesentlicher Bestandteil der Bitcoin-Netzwerkarchitektur. Sie erfüllen verschiedene wichtige Funktionen:
+Nodes sind ein wesentlicher Bestandteil der Bitcoin-Netzwerkarchitektur. Sie erfüllen verschiedene wichtige Funktionen:
 
 - Das Aufrechterhalten einer Kopie der Bitcoin-Blockchain
 - Die Validierung von Transaktionen
-- Die Weitergabe von Informationen an andere Knoten
+- Die Weitergabe von Informationen an andere Nodes
 - Die Durchsetzung der Regeln des Bitcoin-Protokolls.
 
-Jedes Gerät, das die Bitcoin-Software ausführt und als Bitcoin-Knoten bezeichnet wird (oft über [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/) ausgeführt), trägt zur Dezentralisierung des Netzwerks bei.
+Jedes Gerät, das die Bitcoin-Software ausführt und als Bitcoin-Node bezeichnet wird (oft über [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/) ausgeführt), trägt zur Dezentralisierung des Netzwerks bei.
 
 ![image](assets/de/chapter11/1.webp)
 
-### Die Knoten sind also der Kern von Bitcoin.
+### Die Nodes sind also der Kern von Bitcoin.
 
-Jeder Knoten enthält eine Kopie der Blockchain, um Transaktionen zu überprüfen und Betrugsversuche zu verhindern. Die dezentrale Natur des Netzwerks verleiht Bitcoin außergewöhnliche Widerstandsfähigkeit und Robustheit - um das Bitcoin-Protokoll zu stoppen, müssten alle Knoten weltweit ausgeschaltet werden. Zur Information gibt es heute (September 2023) etwa [45.000 Knoten](https://bitnodes.io/nodes/all/) weltweit verteilt.
+Jeder Node enthält eine Kopie der Blockchain, um Transaktionen zu überprüfen und Betrugsversuche zu verhindern. Die dezentrale Natur des Netzwerks verleiht Bitcoin außergewöhnliche Widerstandsfähigkeit und Robustheit - um das Bitcoin-Protokoll zu stoppen, müssten alle Nodes weltweit ausgeschaltet werden. Zur Information gibt es heute (September 2023) etwa [45.000 Nodes](https://bitnodes.io/nodes/all/) weltweit verteilt.
 
-Die Knoten können die Gültigkeit von Blöcken und Transaktionen überprüfen, da sie den Regeln des Bitcoin-Konsenses folgen. Diese Regeln regeln unter anderem die Geldpolitik von Bitcoin, wie die Höhe der Miner-Belohnung (die wir im nächsten Abschnitt genauer betrachten werden) und die Menge an im Umlauf befindlichen Bitcoins. Die Knoten fungieren gewissermaßen als das juristische System des Netzwerks. Dank ihnen folgen alle Netzwerkteilnehmer denselben Regeln. Sie gewährleisten die Neutralität des Bitcoin-Protokolls. Die Konsensregeln variieren sehr wenig oder gar nicht, da es zur Durchführung von Änderungen erforderlich ist, die Zustimmung aller Knoten zu erhalten.
+Die Knoten können die Gültigkeit von Blöcken und Transaktionen überprüfen, da sie den Regeln des Bitcoin-Konsenses folgen. Diese Regeln regeln unter anderem die Geldpolitik von Bitcoin, wie die Höhe der Miner-Belohnung (die wir im nächsten Abschnitt genauer betrachten werden) und die Menge an im Umlauf befindlichen Bitcoins. Die Nodes fungieren gewissermaßen als das juristische System des Netzwerks. Dank ihnen folgen alle Netzwerkteilnehmer denselben Regeln. Sie gewährleisten die Neutralität des Bitcoin-Protokolls. Die Konsensregeln variieren sehr wenig oder gar nicht, da es zur Durchführung von Änderungen erforderlich ist, die Zustimmung aller Nodes zu erhalten.
 
 ![image](assets/de/chapter11/2.webp)
 
-Die Governance innerhalb des Protokolls liegt außerhalb des Lehrplans dieser Schulung, aber wissen Sie, dass jeder Benutzer, der einen Bitcoin-Knoten betreibt, die Regeln festlegt, denen er folgen möchte. Ein Benutzer könnte also beschließen, anderen Regeln zu folgen (d.h. Änderungen am Code vorzunehmen), aber wenn diese Änderungen die aktuellen Konsensregeln ungültig machen, wird dieser Knoten nicht mehr Teil des Bitcoin-Netzwerks sein. Große Änderungen sind daher selten und erfordern eine erhebliche Koordination zwischen Tausenden von Akteuren mit unterschiedlichen Ideologien und Interessen, was das Protokoll dazu zwingt, nur Updates zu produzieren, die es für alle Bitcoin-Benutzer "besser" machen.
+Die Governance innerhalb des Protokolls liegt außerhalb des Lehrplans dieser Schulung, aber wissen Sie, dass jeder Benutzer, der einen Bitcoin-Node betreibt, die Regeln festlegt, denen er folgen möchte. Ein Benutzer könnte also beschließen, anderen Regeln zu folgen (d.h. Änderungen am Code vorzunehmen), aber wenn diese Änderungen die aktuellen Konsensregeln ungültig machen, wird dieser Knoten nicht mehr Teil des Bitcoin-Netzwerks sein. Große Änderungen sind daher selten und erfordern eine erhebliche Koordination zwischen Tausenden von Akteuren mit unterschiedlichen Ideologien und Interessen, was das Protokoll dazu zwingt, nur Updates zu produzieren, die es für alle Bitcoin-Benutzer "besser" machen.
 
-### Wie sieht ein Knoten aus?
+### Wie sieht ein Node aus?
 
-Es gibt mehrere Optionen, wenn wir unseren eigenen Knoten haben möchten, und die Wartungskosten variieren. Sie können einfach die Bitcoin Core-Software auf Ihrem Computer ausführen, aber dies erfordert einen erheblichen Speicherplatz, da die Blockchain etwa ~500 GB groß ist. Um dieses Problem zu umgehen, können Sie sich entscheiden, nur die letzten N Blöcke im Speicher zu behalten, dies wird als "pruned node" bezeichnet. Für diese Art von Lösung sind die Kosten vernachlässigbar, da der Knoten nur eingeschaltet wird, wenn Sie ihn benötigen.
+Es gibt mehrere Optionen, wenn wir unseren eigenen Node haben möchten, und die Wartungskosten variieren. Sie können einfach die Bitcoin Core-Software auf Ihrem Computer ausführen, aber dies erfordert einen erheblichen Speicherplatz, da die Blockchain etwa ~500 GB groß ist. Um dieses Problem zu umgehen, können Sie sich entscheiden, nur die letzten Blöcke im Speicher zu behalten, dies wird als "pruned node" bezeichnet. Für diese Art von Lösung sind die Kosten vernachlässigbar, da der Node nur eingeschaltet wird, wenn Sie ihn benötigen.
 
 ![image](assets/de/chapter11/10.webp)
 
 Eine zweite Option besteht darin, dedizierte Hardware wie den Raspberry Pi 4 mit einer ausreichend großen SSD-Festplatte (ca. ~1 TB) zu verwenden. Diese zweite Option ist teurer, wenn Sie die Hardware kaufen müssen, aber aus Sicht des Stromverbrauchs sind es weniger als 10€ pro Jahr.
 Von einer Bandbreitenperspektive aus gesehen, bei der alle 10 Minuten ein 1-MB-Block betrachtet wird, entspricht dies etwa 5 GB pro Monat.
 
-### Die Knoten müssen für alle zugänglich bleiben!
+### Die Nodes müssen für alle zugänglich bleiben!
 
-Die erschwinglichen Kosten und die Zugänglichkeit eines Bitcoin-Knotens in Bezug auf Hardware-Ressourcen, Speicherplatz und Bandbreite sind sehr wichtig, da dies die Dezentralisierung des Netzwerks erleichtert.
+Die erschwinglichen Kosten und die Zugänglichkeit eines Bitcoin-Nodes in Bezug auf Hardware-Ressourcen, Speicherplatz und Bandbreite sind sehr wichtig, da dies die Dezentralisierung des Netzwerks erleichtert.
 
-Tatsächlich hat jeder einen guten Grund, einen Knoten laufen zu lassen! Der Preis und die Anstrengungen sind minimal im Vergleich zum Nutzen. Man muss sich einfach auf das Abenteuer einlassen und sich tausenden anderen Bitcoinern anschließen, denn zusammen bilden wir das Bitcoin-Netzwerk.
+Tatsächlich hat jeder einen guten Grund, einen Node laufen zu lassen! Der Preis und die Anstrengungen sind minimal im Vergleich zum Nutzen. Man muss sich einfach auf das Abenteuer einlassen und sich tausenden anderen Bitcoinern anschließen, denn zusammen bilden wir das Bitcoin-Netzwerk.
 
 ![image](assets/de/chapter11/11.webp)
 
-Wenn zum Beispiel die Blöcke 100-mal schwerer wären, könnten wir zwar alle 10 Minuten 100-mal mehr Transaktionen durchführen, aber das Betreiben eines Bitcoin-Knotens würde eine Festplatte von 50 TB, eine Bandbreite von über 500 GB/Monat und eine Hardware erfordern, die in der Lage ist, Hunderttausende von Transaktionen in weniger als 10 Minuten zu validieren. In dieser hypothetischen Situation mit 100-mal größeren Blöcken wäre das Betreiben eines Bitcoin-Knotens für den Durchschnittsbürger nicht zugänglich, was die Dezentralisierung des Protokolls und die Unveränderlichkeit von Transaktionen und Konsensregeln gefährden würde. Daher wurden die Protokollbeschränkungen auch so gewählt, dass möglichst viele Menschen ihren eigenen Bitcoin-Knoten betreiben können.
+Wenn zum Beispiel die Blöcke 100-mal schwerer wären, könnten wir zwar alle 10 Minuten 100-mal mehr Transaktionen durchführen, aber das Betreiben eines Bitcoin-Knotens würde eine Festplatte von 50 TB, eine Bandbreite von über 500 GB/Monat und eine Hardware erfordern, die in der Lage ist, Hunderttausende von Transaktionen in weniger als 10 Minuten zu validieren. In dieser hypothetischen Situation mit 100-mal größeren Blöcken wäre das Betreiben eines Bitcoin-Knotens für den Durchschnittsbürger nicht zugänglich, was die Dezentralisierung des Protokolls und die Unveränderlichkeit von Transaktionen und Konsensregeln gefährden würde. Daher wurden die Protokollbeschränkungen auch so gewählt, dass möglichst viele Menschen ihren eigenen Bitcoin-Node betreiben können.
 
-Diese Situation ist nicht so hypothetisch, denn das Jahr 2017 war von einer intensiven Kontroverse geprägt, die als "Blockkrieg" bekannt ist. Dieser Konflikt hat die Akteure, die Bitcoin durch Erhöhung der Blockgröße verändern wollten, um die Transaktionskapazität zu erhöhen, gegen diejenigen gestellt, die die Unabhängigkeit und die Macht der Benutzer bewahren wollten. Letztendlich haben die Benutzer und die Knoten die Initiative zur Änderung der Miner, Börsen und Institutionen abgelehnt.
+Diese Situation ist nicht so hypothetisch, denn das Jahr 2017 war von einer intensiven Kontroverse geprägt, die als "Blocksizewar" (Blockkrieg) bekannt ist. Dieser Konflikt hat die Akteure, die Bitcoin durch Erhöhung der Blockgröße verändern wollten, um die Transaktionskapazität zu erhöhen, gegen diejenigen gestellt, die die Unabhängigkeit und die Macht der Benutzer bewahren wollten. Letztendlich haben die Benutzer und die Knoten die Initiative zur Änderung der Miner, Börsen und Institutionen abgelehnt.
 
 Nach diesem Sieg haben die Knoten ein Update namens SegWit aktiviert, das den Weg für die Implementierung des Lightning Network, einem sofortigen Bitcoin-Zahlungsnetzwerk, das die Bitcoin-Blockchain nutzt, geebnet hat. Diese Situation zeigt, dass die Benutzer dank ihrer Knoten eine echte Macht innerhalb von Bitcoin haben, die es ihnen ermöglicht, den großen Institutionen entgegenzutreten.
 
@@ -753,17 +754,17 @@ Die Proof-of-Work (POW)-Methode ist der Sicherheitskonsens des Bitcoin-Protokoll
 
 Stellen Sie es sich wie eine riesige Lotterie vor, an der jeder teilnehmen kann. Das Ziel ist es, eine spezifische Nummer zu finden, mit der ein gültiger Block signiert werden kann. Der Gewinner erhält eine Belohnung in Bitcoin. Diese Nummer ist sehr einfach zu überprüfen, aber schwer zu finden. Die einfache Überprüfung erfolgt über die SHA-256-Hashfunktion, die im Mining-Algorithmus enthalten ist. Um diese Zahl zu finden, werden die Teilnehmer (Miner) Milliarden von Milliarden von Möglichkeiten ausprobieren: 1, 52, 2648, 26874615, 15344854131318631, usw.
 
-Wenn die gewählte Zahl richtig ist: Jackpot! Andernfalls wird weitergesucht. Um die Anzahl der Versuche zu optimieren, verwenden sie spezielle ASIC-Maschinen, die Milliarden von Möglichkeiten pro Sekunde berechnen können. Die Gesamtzahl der Versuche wird als HashRate bezeichnet und quantifiziert die Sicherheit des Bitcoin-Protokolls. Um diese Maschinen zum Laufen zu bringen, muss also eine große Menge an Strom verbraucht werden. POW verwandelt also Energie in Geld und verbindet die reale Welt mit der digitalen Welt, um die erste energiebasierte Währung zu schaffen.
+Wenn die gewählte Zahl richtig ist: Jackpot! Andernfalls wird weitergesucht. Um die Anzahl der Versuche zu optimieren, verwenden sie spezielle ASIC-Maschinen, die Milliarden von Möglichkeiten pro Sekunde berechnen können. Die Gesamtzahl der Versuche wird als HashRate bezeichnet und quantifiziert die Sicherheit des Bitcoin-Protokolls. Um diese Maschinen zum Laufen zu bringen, muss also eine große Menge an Strom verbraucht werden. POW verwandelt also Energie in Geld und verbindet die physische Welt mit der digitalen Welt, um die erste energiebasierte Währung zu schaffen.
 
-Die Maschinen laufen und nach durchschnittlich 10 Minuten wird ein Gewinner auftauchen. Er wird den richtigen Hash unter der Schwierigkeitsgrenze gefunden haben. Der große und einzige Gewinner wird dann den neuen Block des Zeitstempel-Servers signieren und die Blockkette fortsetzen. Der Gewinner erhält seine Belohnungen und versucht sein Glück für den nächsten Block erneut. Dieser Prozess wiederholt sich seit 12 Jahren und alle 10 Minuten bestätigt ein Gewinner Bitcoin-Transaktionen und sichert weiterhin vergangene Transaktionen. Dadurch wird unsere Bitcoin-Blockchain robuster und sicherer.
+Die Maschinen laufen und nach durchschnittlich 10 Minuten wird ein Gewinner auftauchen. Er wird den richtigen Hash unter der Schwierigkeitsgrenze gefunden haben. Der große und einzige Gewinner wird dann den neuen Block des Zeitstempel-Servers signieren und die Blockchain fortsetzen. Der Gewinner erhält seine Belohnungen und versucht sein Glück für den nächsten Block erneut. Dieser Prozess wiederholt sich seit 15 Jahren und alle 10 Minuten bestätigt ein Gewinner Bitcoin-Transaktionen und sichert weiterhin vergangene Transaktionen. Dadurch wird unsere Bitcoin-Blockchain robuster und sicherer.
 
-Alle 2 Wochen (2016 Blöcke) gleicht die Schwierigkeitsanpassung das globale Mining-Spiel entsprechend der Anzahl der Teilnehmer aus.
+Circa alle 2 Wochen (2016 Blöcke) gleicht die Schwierigkeitsanpassung das globale Mining-Spiel entsprechend der Anzahl der Teilnehmer aus.
 
 ![image](assets/de/chapter12/14.webp)
 
 ### Das Mining entwickelt sich ständig weiter
 
-Im Laufe der Jahre haben sich die Miner mit immer effizienterer Hardware ausgestattet, um so viele Hashes wie möglich pro Sekunde (HashRate) zu erzeugen und dabei so wenig Energie wie möglich zu verbrauchen, auf die kostengünstigste Weise. Die ersten Miner wie Satoshi oder Hal Finney haben mit ihrer CPU gemint, dann haben andere mit ihrer Grafikkarte gemint. Heutzutage verwenden Miner das, was als ASIC (Application-Specific Integrated Circuit) bezeichnet wird, Maschinen, die speziell für den SHA256-Algorithmus entwickelt wurden.
+Im Laufe der Jahre haben sich die Miner mit immer effizienterer Hardware ausgestattet, um so viele Hashes wie möglich pro Sekunde (HashRate) zu erzeugen und dabei so wenig Energie wie möglich zu verbrauchen, auf die kostengünstigste Weise. Die ersten Miner wie Satoshi oder Hal Finney haben mit ihrer CPU gemint, dann haben andere mit ihrer Grafikkarte gemint (GPU). Heutzutage verwenden Miner das, was als ASIC (Application-Specific Integrated Circuit) bezeichnet wird, Maschinen, die speziell für den SHA256-Algorithmus entwickelt wurden.
 
 ![image](assets/de/chapter12/20.webp)
 
