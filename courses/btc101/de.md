@@ -767,7 +767,7 @@ Im Laufe der Jahre haben sich die Miner mit immer effizienterer Hardware ausgest
 
 ![image](assets/de/chapter12/20.webp)
 
-Die Hashrate des Bitcoin-Netzwerks ist sozusagen die Menge der Versuche, die pro Sekunde unternommen werden, um den nächsten Block zu finden. Heute liegt sie bei etwa 400 TH/s, was 400 Billionen Versuchen pro Sekunde entspricht! Je höher die globale Hashrate, desto schwieriger ist es für einen böswilligen Akteur, die Ressourcen für die Mehrheit des Minings zu monopolisieren und eine doppelte Ausgabe zu tätigen. Es ist also wirtschaftlich sinnvoller, die Regeln des Bitcoin-Protokolls zu befolgen, als gegen sie zu handeln. Dies wirft eine Frage auf: Wie werden die Miner bezahlt?
+Die Hashrate des Bitcoin-Netzwerks ist sozusagen die Menge der Versuche, die pro Sekunde unternommen werden, um den nächsten Block zu finden. Heute liegt sie bei etwa 632.81 EH/s, was etwa 630 Trillionen Hashes pro Sekunde entspricht! Je höher die globale Hashrate, desto schwieriger ist es für einen böswilligen Akteur, die Ressourcen für die Mehrheit des Minings zu monopolisieren und eine doppelte Ausgabe zu tätigen. Es ist also wirtschaftlich sinnvoller, die Regeln des Bitcoin-Protokolls zu befolgen, als gegen sie zu handeln. Dies wirft eine Frage auf: Wie werden die Miner bezahlt?
 
 ![image](assets/de/chapter12/16.webp)
 
@@ -782,7 +782,7 @@ Die coinbase-Transaktion ist immer die erste; sie enthält die Belohnung, die ma
 
 Anfänglich wird ein Miner dafür entlohnt, dass er einen gültigen Block findet. Genauer gesagt wird er auf zwei Arten entlohnt: (i) durch die Belohnung, die im Block enthalten ist, und (ii) durch die Transaktionsgebühren in den Transaktionen, die im Block enthalten sind. Die Höhe der Belohnung wird durch die Konsensregeln festgelegt und hängt davon ab, in welcher Epoche wir uns befinden.
 
-Für die ersten Blöcke betrug die Belohnung 50 Bitcoins, danach wurde sie alle 210.000 Blöcke (d.h. etwa alle 4 Jahre) durch 2 geteilt. Heute (im Jahr 2023) befinden wir uns in der 4. Epoche; die Belohnung beträgt also 6,25 Bitcoins. Diese Belohnung ist der Geldschöpfungsmechanismus in Bitcoin. Da die Belohnung mit der Zeit abnimmt, bedeutet dies, dass es ein Limit von 21 Millionen Bitcoins gibt -- heute sind bereits mehr als 19,4 Millionen Bitcoins im Umlauf, was mehr als 92% entspricht.
+Für die ersten Blöcke betrug die Belohnung 50 Bitcoins, danach wurde sie alle 210.000 Blöcke (d.h. etwa alle 4 Jahre) durch 2 geteilt. Heute (im Jahr 2024) befinden wir uns in der 5. Epoche; die Belohnung beträgt also 3,125 Bitcoins. Diese Belohnung ist der Geldschöpfungsmechanismus in Bitcoin. Da die Belohnung mit der Zeit abnimmt, bedeutet dies, dass es ein Limit von 21 Millionen Bitcoins gibt -- heute sind bereits mehr als 19,6 Millionen Bitcoins im Umlauf, was mehr als 92% entspricht.
 
 ![image](assets/de/chapter12/18.webp)
 
@@ -794,7 +794,7 @@ Um das Geschäftsmodell der Miner zu stabilisieren, das auf den Belohnungen beru
 
 ### Warum sich die Mühe machen, all das zu tun?
 
-Im Wesentlichen besteht die Innovation von Bitcoin darin, eine Lösung für das Problem des doppelten Ausgebens durch die Verwendung einer Blockchain auf Basis des Proof of Work mit variabler Schwierigkeit anzubieten. In der digitalen Welt unterscheidet sich das Konzept des Eigentums vom Konzept der physischen Welt. In der digitalen Welt kann alles kopiert und eingefügt werden, was Probleme im Hinblick auf das doppelte Ausgeben von digitalen Werten mit sich bringt. Vertrauenswürdige Vermittler wie Banken wurden geschaffen, um dieses technologische Problem zu lösen und sicherzustellen, dass ein Gut, sobald es übertragen wurde, nicht mehr dem Sender gehört. Aber wie kann man das ohne einen vertrauenswürdigen Vermittler tun? Dieses Problem ist äquivalent zum Byzantinischen Generalsproblem, einem Koordinationsproblem von Informationen in einem System, in dem den verschiedenen Akteuren nicht vertraut werden kann.
+Im Wesentlichen besteht die Innovation von Bitcoin darin, eine Lösung für das Problem des doppelten Ausgebens durch die Verwendung einer Blockchain auf Basis des Proof of Work mit variabler Schwierigkeit anzubieten. In der digitalen Welt unterscheidet sich das Konzept des Eigentums vom Konzept der physischen Welt. In der digitalen Welt kann alles kopiert und eingefügt werden, was Probleme im Hinblick auf das doppelte Ausgeben von digitalen Werten mit sich bringt. Vertrauenswürdige Vermittler wie Banken wurden geschaffen, um dieses technologische Problem zu lösen und sicherzustellen, dass ein Gut, sobald es übertragen wurde, nicht mehr dem Sender gehört. Aber wie kann man das ohne einen vertrauenswürdigen Vermittler tun? Dieses Problem ist äquivalent zum Problem der Byzantinischen Generäle, einem Koordinationsproblem von Informationen in einem System, in dem den verschiedenen Akteuren nicht vertraut werden kann.
 
 ![image](assets/de/chapter12/13.webp)
 
@@ -802,7 +802,8 @@ Bitcoin ist also eine Art Lösung, um dieses Problem zu lösen oder zumindest zu
 
 Die Miner sind die Baumeister der Sicherheit des Bitcoin-Netzwerks. Indem sie Energie für die Erzeugung von Hashes aufwenden, bauen sie eine Mauer, die es für einen bösartigen Akteur extrem teuer macht, die Transaktionshistorie neu zu schreiben. Diese ökonomische Abschreckung hindert sie daran, sich unehrlich zu verhalten.
 
-Selbst im Falle eines 51%-Angriffs, bei dem ein Akteur mehr als die Hälfte der Hashrate besitzt, bleibt das Netzwerk sicher, da der Angreifer so viel Energie wie alle Miner zusammen aufwenden müsste, um die Blockchain zu ändern. Dank dieses Proof-of-Work-Mechanismus, der Energie erfordert, um durchgeführt zu werden, ist das Netzwerk sicher.
+Selbst im Falle eines 51%-Angriffs, bei dem ein Akteur mehr als die Hälfte der Hashrate besitzt, bleibt das Netzwerk sicher, sofern der Akteur nicht ebenfalls mehr als 51% der Energie im Netzwerk besitzt.
+Da der Angreifer so viel Energie wie alle Miner zusammen aufwenden müsste, um die Blockchain zu ändern. Dank dieses Proof-of-Work-Mechanismus, der Energie erfordert, um durchgeführt zu werden, ist das Netzwerk sicher.
 
 ### Zusammenfassend
 
@@ -830,7 +831,7 @@ Es darf jedoch nicht vergessen werden, dass Bitcoin als revolutionäre Erfindung
 
 ![image](assets/de/chapter13/3.webp)
 
-Für diejenigen, die in Ländern mit hoher Inflation leben, ist Bitcoin eine Frage des Überlebens. Es bietet eine Möglichkeit, in finanziell unsicheren Situationen zu überleben. Darüber hinaus bietet Bitcoin ein gerechteres und gerechteres Finanzsystem. Es bietet auch Milliarden von Menschen auf der Welt die Möglichkeit, auf das Finanzsystem zuzugreifen. Aus dieser Perspektive betrachtet, ist der Energieverbrauch legitim?
+Für diejenigen, die in Ländern mit hoher Inflation leben, ist Bitcoin eine Frage des Überlebens. Es bietet eine Möglichkeit, in finanziell unsicheren Situationen zu überleben. Darüber hinaus bietet Bitcoin ein gerechteres Finanzsystem. Es bietet auch Milliarden von Menschen auf der Welt die Möglichkeit, auf ein globales Finanzsystem zuzugreifen. Aus dieser Perspektive betrachtet, ist der Energieverbrauch legitim?
 
 ### Könnte Bitcoin nicht eine positive Auswirkung auf die Umwelt haben?
 
@@ -850,7 +851,7 @@ Die Flammen in Ölquellen, die Methan verbrennen, um Umweltverschmutzung zu verm
 
 Die Bitcoin-Technologie wird oft missverstanden, und die Kritik an ihren ökologischen Auswirkungen ist oft vereinfachend und kurzsichtig. Diese Kritik ist oft von politischen Interessen getrieben. Bitcoin hat das Potenzial, den ökologischen Wandel zu unterstützen und zu einer grüneren Welt beizutragen. Die Medien verbreiten oft falsche Vorstellungen über Bitcoin und Ökologie. Nehmen Sie sich daher die Zeit, sich eine eigene Meinung zu bilden. Bei Bitcoin ist alles transparent.
 
-> Befolgen Sie eine der Maximen von Bitcoin: Traue nicht, verifiziere dich selbst!
+> Befolgen Sie eine der Maximen von Bitcoin: Vertraue nicht, verifiziere selbst!
 
 ![Bitcoin & écologie](assets/posters/fr/14_minage_et_ecologie_crop.webp)
 
@@ -862,7 +863,7 @@ Im Durchschnitt wird alle 10 Minuten ein Block erstellt und der Miner, der einen
 
 Um als Miner möglichst rentabel zu sein, muss man sich die günstigste verfügbare Elektrizität beschaffen, die oft in abgelegenen Gebieten in Kraftwerken zu finden ist, die noch nicht ans Stromnetz angeschlossen sind. Der Miner fungiert dann als Käufer letzter Instanz und sobald der Strompreis aufgrund einer erhöhten Nachfrage steigt, neigt der Miner dazu, seine Aktivitäten an einen anderen Ort zu verlagern.
 
-Daher ist das Bitcoin-Protokoll ein unzensierbares und unaufhaltsames Währungssystem, da jede Komponente des Protokolls geografisch über den gesamten Globus verteilt ist - zum Beispiel gibt es etwa 40.000 Bitcoin-Knoten auf allen Kontinenten. Die Konsensregeln von Bitcoin sind so gestaltet, dass es wirtschaftlich rentabler ist, ihnen zu folgen, als zu versuchen, sie zu brechen, und daher ist kein Vertrauen zwischen den Akteuren erforderlich. Bitcoin hat keinen Anführer und kann nicht gestoppt werden. Es ist möglich, den Handel mit Bitcoin zu regulieren, aber dies hat nur begrenzte Auswirkungen. Kurz gesagt, kein Richter oder Staat kann Bitcoin zensieren oder stoppen.
+Daher ist das Bitcoin-Protokoll ein unzensierbares und unaufhaltsames Währungssystem, da jede Komponente des Protokolls geografisch über den gesamten Globus verteilt ist - zum Beispiel gibt es etwa 40.000 Bitcoin-Nodes auf allen Kontinenten. Die Konsensregeln von Bitcoin sind so gestaltet, dass es wirtschaftlich rentabler ist, ihnen zu folgen, als zu versuchen, sie zu brechen, und daher ist kein Vertrauen zwischen den Akteuren erforderlich. Bitcoin hat keinen Anführer und kann nicht gestoppt werden. Es ist möglich, den Handel mit Bitcoin zu regulieren, aber dies hat nur begrenzte Auswirkungen. Kurz gesagt, kein Richter oder Staat kann Bitcoin zensieren oder stoppen.
 
 # Wie kann man Bitcoin erhalten?
 
@@ -872,7 +873,7 @@ Der Preis von Bitcoin wird oft durch signifikante Volatilität gekennzeichnet. S
 
 ![image](assets/de/chapter14/2.webp)
 
-> Um es einfach auszudrücken: Menschen kaufen alle zur gleichen Zeit und verkaufen alle zur gleichen Zeit. Bitcoin ist nicht immun gegen die menschliche Natur.
+> Um es einfach auszudrücken: Menschen kaufen und verkaufen überwiegend zur gleichen Zeit. Bitcoin ist nicht immun gegen die menschliche Natur.
 
 ### Das Verständnis der Adoptionswellen
 
@@ -886,7 +887,7 @@ Die ersten Bitcoin-Benutzer waren hauptsächlich Technikbegeisterte, Cypherpunks
 
 - Das Darknet & Kriminelle
 
-Dann breitete sich die Verwendung von Bitcoin auf Darknet-Handelsplattformen wie Silk Road aus, aufgrund seiner unkontrollierbaren und pseudonymen Natur. Diese Plattform lenkte die Aufmerksamkeit auf die unkontrollierbare und pseudonyme Natur von Bitcoin, was einige kriminelle Akteure dazu veranlasste, es zu nutzen. Es ist jedoch zu beachten, dass die Verwendung eines Werkzeugs und nicht das Werkzeug selbst über seine Legalität oder Illegalität entscheidet. Es ist wichtig zu beachten, dass die illegale Verwendung von Bitcoin eine Person nicht automatisch zu einem Kriminellen macht. Es ist die Verwendung und nicht das Werkzeug selbst, die als illegal eingestuft werden kann. Zum Beispiel ist die Verwendung von Bitcoin für Aktivitäten wie den Kauf bestimmter Drogen je nach den Vorschriften des Territoriums, auf dem die Aktivität stattfindet, legal oder illegal.
+Dann breitete sich die Verwendung von Bitcoin auf Darknet-Handelsplattformen wie Silk Road aus, aufgrund seiner unkontrollierbaren und pseudonymen Natur. Diese Plattform lenkte die Aufmerksamkeit auf die unkontrollierbare und pseudonyme Natur von Bitcoin, was einige kriminelle Akteure dazu veranlasste, es zu nutzen. Es ist jedoch zu beachten, dass die Verwendung eines Werkzeugs und nicht das Werkzeug selbst über seine Legalität oder Illegalität entscheidet. Es ist die Verwendung und nicht das Werkzeug selbst, die als illegal eingestuft werden kann. Zum Beispiel ist die Verwendung von Bitcoin für Aktivitäten wie den Kauf bestimmter Drogen je nach den Vorschriften des Territoriums, auf dem die Aktivität stattfindet, legal oder illegal.
 
 - Der ICO-Wahnsinn und der Eintritt der breiten Öffentlichkeit
 
@@ -1012,7 +1013,7 @@ Ihre Verwendung ist einfach und für jeden zugänglich:
 1. Einrichtung eines KYC-Kontos/*
 2. Banküberweisung auf Ihr Konto
 3. Kauf von Bitcoin
-4. Abheben der Bitcoins in Ihre Brieftasche
+4. Abheben der Bitcoins in Ihre Wallet
 
 ![image](assets/de/chapter15/1.webp)
 
@@ -1079,7 +1080,7 @@ Als eine Schicht von Bitcoin anerkannt, wurde das Lightning Network im Jahr 2017
 Das Skalierbarkeitsproblem bezieht sich auf die Herausforderung, ein monetäres System einzurichten, das in der Lage ist, mit zunehmender Adoption eine immer größere Anzahl von Transaktionen pro Sekunde zu bewältigen. Dies bezieht sich auf das Blockchain-Trilemma. Stellen Sie sich ein Dreieck vor, dessen Spitzen Dezentralisierung, Sicherheit und Skalierbarkeit sind.
 
 ![Bild](assets/de/chapter18/5.webp)
-Ein Protokoll, das auf einer Blockchain basiert, kann nur zwei dieser drei Aspekte erfüllen. Innerhalb des Bitcoin-Protokolls wurden Entscheidungen getroffen, die die Dezentralisierung/Sicherheit begünstigen. Einerseits ermöglichen die Blockgröße von 1 MB und die Zeit zwischen zwei Blöcken (im Durchschnitt 10 Minuten) den kostengünstigen Betrieb eines Bitcoin-Knotens und fördern somit die Dezentralisierung. Andererseits macht die Blockproduktion durch Proof-of-Work Betrug im Protokoll extrem teuer und erleichtert die Überprüfung durch die Netzwerkknoten, was die Sicherheit fördert. Diese Entscheidungen führen jedoch zu einer Begrenzung der durchschnittlichen Anzahl von Transaktionen in einem Block auf einige wenige, was grob gesagt ein paar Transaktionen pro Sekunde entspricht. Diese Zahl ist im Vergleich zur Kapazität von Zahlungsprozessoren wie VISA, die bei 1700/s liegt, lächerlich. Dennoch ist dies eine notwendige Begrenzung, um mit Bitcoin unzensierbar und ohne Vertrauensdritte handeln zu können. Diejenigen, die an Bitcoin entwickeln, haben jedoch von Anfang an über dieses Problem nachgedacht.
+Ein Protokoll, das auf einer Blockchain basiert, kann nur zwei dieser drei Aspekte erfüllen. Innerhalb des Bitcoin-Protokolls wurden Entscheidungen getroffen, die die Dezentralisierung/Sicherheit begünstigen. Einerseits ermöglichen die Blockgröße von 1 MB und die Zeit zwischen zwei Blöcken (im Durchschnitt 10 Minuten) den kostengünstigen Betrieb eines Bitcoin-Nodes und fördern somit die Dezentralisierung. Andererseits macht die Blockproduktion durch Proof-of-Work Betrug im Protokoll extrem teuer und erleichtert die Überprüfung durch die Netzwerkknoten, was die Sicherheit fördert. Diese Entscheidungen führen jedoch zu einer Begrenzung der durchschnittlichen Anzahl von Transaktionen in einem Block auf einige wenige, was grob gesagt ein paar Transaktionen pro Sekunde entspricht. Diese Zahl ist im Vergleich zur Kapazität von Zahlungsprozessoren wie VISA, die bei 1700/s liegt, lächerlich. Dennoch ist dies eine notwendige Begrenzung, um mit Bitcoin unzensierbar und ohne Vertrauensdritte handeln zu können. Diejenigen, die an Bitcoin entwickeln, haben jedoch von Anfang an über dieses Problem nachgedacht.
 
 ### Lightning als oberste Schicht
 
@@ -1143,12 +1144,14 @@ Die unverzichtbaren Fragen, die gestellt werden müssen, lauten:
 
 - Wie soll eine Gesellschaft verwaltet werden, in der 80% der Arbeitsplätze verschwinden?
 - Wie kann eine Bevölkerung wiederbelebt werden?
-- Ist eine so große Anzahl von Lehrern erforderlich?
-- Die geopolitischen, politischen und menschlichen Auswirkungen der Automatisierung werden nicht ausreichend diskutiert.
-  Informatik, Internet, Streaming, VR werden die Bildung verändern. Wir könnten einen universellen Kurs für alle französischen Studenten haben, der von der Regierung verwaltet wird und in dem die Lehrer den Kurs nicht mehr halten, sondern die Schüler direkt begleiten. Die Kinder könnten in eine virtuelle Welt gehen und beim Lernen der Geschichte begleitet werden.
-
 - Wo liegt die Grenze zwischen einem Lehrer und einer KI?
 - Wie kann eine Gesellschaft gewährleistet werden, die im Wohlstand lebt?
+
+ 
+ Die geopolitischen, politischen und menschlichen Auswirkungen der Automatisierung werden nicht ausreichend diskutiert.
+Informatik, Internet, Streaming, VR werden die Bildung verändern. Wir könnten einen universellen Kurs für alle französischen Studenten haben, der von der Regierung verwaltet wird und in dem die Lehrer den Kurs nicht mehr halten, sondern die Schüler direkt begleiten. Die Kinder könnten in eine virtuelle Welt gehen und beim Lernen der Geschichte begleitet werden.
+
+
 
 Diese grundlegenden Fragen für unsere Zukunft müssen gemeinsam diskutiert und entschieden werden. Aber was hat das mit Bitcoin zu tun? Ähnlich wie das Internet für Kommunikationswege ist Bitcoin eine technologische Revolution für neue Formen der Organisation im großen Maßstab, die uns die Möglichkeit gibt, Werte ohne jegliches Vertrauen in Dritte auszutauschen. Wollen wir die technologische Entwicklung des Währungssystems einschränken oder den Kapitalzuwachs durch die gesteigerte Produktivität durch die Verwendung von Bitcoin- und Lightning-Protokollen nutzen?
 
@@ -1185,7 +1188,7 @@ Wie wir im vorherigen Kapitel gesehen haben, ist das Bitcoin-Protokoll neutral g
 'Bitcoin hat alle notwendigen Eigenschaften, um eine effiziente und gesunde Währung zu sein: teilbar, sofort transportierbar, nicht zensierbar, vernachlässigbare Kosten für die Überprüfung und mit einer bereits festgelegten Geldpolitik für die kommenden Jahrhunderte mit diesen 21 Millionen Einheiten. Bitcoin ist pseudonym und kann weltweit ohne Genehmigung einer beliebigen Einheit gehandelt werden, solange Sie Ihre eigenen privaten Schlüssel besitzen - wie das Sprichwort sagt: "Not your keys, not your bitcoins" ("nicht deine Schlüssel, nicht deine Bitcoins").
 Bitcoin wird von verschiedenen Gruppen von Menschen angenommen, von Kryptographen über Libertäre bis hin zu traditionellen Unternehmen und sogar einem Land. Bitcoin ist jedoch für alle da, und die Anzahl der Benutzer wächst, ebenso wie die Anzahl der Bitcoin-Knoten, die als Hüter des Transaktionsverlaufs dienen und so seine Dezentralisierung gewährleisten.
 
-Bitcoin kann nicht mehr gestoppt oder zensiert werden. Es ist eine friedliche Revolution, um das Geldsystem zu ändern und finanzielle Inklusion zu ermöglichen. Benutzer können Bitcoins erhalten, indem sie sie für ihren Handel akzeptieren oder über regulierte oder nicht regulierte Plattformen kaufen. Bitcoins können in Brieftaschen, mobilen Anwendungen oder physischen Geräten gespeichert werden. Bei Bitcoin gibt es keinen vertrauenswürdigen Vermittler, Bitcoin setzt auf Transparenz, Freiheit und individuelle Verantwortung - wie das Sprichwort sagt: "Don't Trust, Verify" ("Vertraue nicht, überprüfe selbst").
+Bitcoin kann nicht mehr gestoppt oder zensiert werden. Es ist eine friedliche Revolution, um das Geldsystem zu ändern und finanzielle Inklusion zu ermöglichen. Benutzer können Bitcoins erhalten, indem sie sie für ihren Handel akzeptieren oder über regulierte oder nicht regulierte Plattformen kaufen. Bitcoins können in Wallets, mobilen Anwendungen oder physischen Geräten gespeichert werden. Bei Bitcoin gibt es keinen vertrauenswürdigen Vermittler, Bitcoin setzt auf Transparenz, Freiheit und individuelle Verantwortung - wie das Sprichwort sagt: "Don't Trust, Verify" ("Vertraue nicht, überprüfe selbst").
 
 Die Veränderung des Finanzsystems erfordert eine Veränderung der Währung. Satoshi hat Bitcoin im Jahr 2008 geschaffen, um einen Versuch dazu zu unternehmen. Einfaches und "magisches" Geld zu haben, korruptiert. Bitcoin ist daher eine Alternative, um ein neues neutrales Geldsystem aufzubauen. Bitcoin ermöglicht die Befreiung vom Bankensystem. Es ist ein soziales Phänomen, das uns dazu bringt, an einer friedlichen Revolution teilzunehmen. Sind Sie bereit, sich anzuschließen?
 
